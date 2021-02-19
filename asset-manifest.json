@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nyyppaguide/static/css/main.0518d137.chunk.css",
-    "main.js": "/nyyppaguide/static/js/main.09f350ed.chunk.js",
-    "main.js.map": "/nyyppaguide/static/js/main.09f350ed.chunk.js.map",
+    "main.js": "/nyyppaguide/static/js/main.56576934.chunk.js",
+    "main.js.map": "/nyyppaguide/static/js/main.56576934.chunk.js.map",
     "runtime-main.js": "/nyyppaguide/static/js/runtime-main.d26e8223.js",
     "runtime-main.js.map": "/nyyppaguide/static/js/runtime-main.d26e8223.js.map",
     "static/js/2.15319bec.chunk.js": "/nyyppaguide/static/js/2.15319bec.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d26e8223.js",
     "static/js/2.15319bec.chunk.js",
     "static/css/main.0518d137.chunk.css",
-    "static/js/main.09f350ed.chunk.js"
+    "static/js/main.56576934.chunk.js"
   ]
 }
