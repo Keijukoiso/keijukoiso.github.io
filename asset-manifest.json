@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/nyyppaguide/static/css/main.647fc0fc.chunk.css",
-    "main.js": "/nyyppaguide/static/js/main.715ff405.chunk.js",
-    "main.js.map": "/nyyppaguide/static/js/main.715ff405.chunk.js.map",
-    "runtime-main.js": "/nyyppaguide/static/js/runtime-main.35c1cb0d.js",
-    "runtime-main.js.map": "/nyyppaguide/static/js/runtime-main.35c1cb0d.js.map",
-    "static/js/2.df6fe96e.chunk.js": "/nyyppaguide/static/js/2.df6fe96e.chunk.js",
-    "static/js/2.df6fe96e.chunk.js.map": "/nyyppaguide/static/js/2.df6fe96e.chunk.js.map",
-    "static/js/3.a59fb274.chunk.js": "/nyyppaguide/static/js/3.a59fb274.chunk.js",
-    "static/js/3.a59fb274.chunk.js.map": "/nyyppaguide/static/js/3.a59fb274.chunk.js.map",
+    "main.css": "/nyyppaguide/static/css/main.dddb2635.chunk.css",
+    "main.js": "/nyyppaguide/static/js/main.cea99ae4.chunk.js",
+    "main.js.map": "/nyyppaguide/static/js/main.cea99ae4.chunk.js.map",
+    "runtime-main.js": "/nyyppaguide/static/js/runtime-main.17b82284.js",
+    "runtime-main.js.map": "/nyyppaguide/static/js/runtime-main.17b82284.js.map",
+    "static/js/2.b3c22f8a.chunk.js": "/nyyppaguide/static/js/2.b3c22f8a.chunk.js",
+    "static/js/2.b3c22f8a.chunk.js.map": "/nyyppaguide/static/js/2.b3c22f8a.chunk.js.map",
+    "static/js/3.3eec9a74.chunk.js": "/nyyppaguide/static/js/3.3eec9a74.chunk.js",
+    "static/js/3.3eec9a74.chunk.js.map": "/nyyppaguide/static/js/3.3eec9a74.chunk.js.map",
     "index.html": "/nyyppaguide/index.html",
-    "static/css/main.647fc0fc.chunk.css.map": "/nyyppaguide/static/css/main.647fc0fc.chunk.css.map",
-    "static/js/2.df6fe96e.chunk.js.LICENSE.txt": "/nyyppaguide/static/js/2.df6fe96e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/nyyppaguide/static/media/logo.6ce24c58.svg",
+    "static/css/main.dddb2635.chunk.css.map": "/nyyppaguide/static/css/main.dddb2635.chunk.css.map",
+    "static/js/2.b3c22f8a.chunk.js.LICENSE.txt": "/nyyppaguide/static/js/2.b3c22f8a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/nyyppaguide/static/media/tausta3.30c10465.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35c1cb0d.js",
-    "static/js/2.df6fe96e.chunk.js",
-    "static/css/main.647fc0fc.chunk.css",
-    "static/js/main.715ff405.chunk.js"
+    "static/js/runtime-main.17b82284.js",
+    "static/js/2.b3c22f8a.chunk.js",
+    "static/css/main.dddb2635.chunk.css",
+    "static/js/main.cea99ae4.chunk.js"
   ]
 }
