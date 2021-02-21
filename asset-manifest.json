@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nyyppaguide/static/css/main.a34b74f8.chunk.css",
+    "main.css": "/nyyppaguide/static/css/main.81de1138.chunk.css",
     "main.js": "/nyyppaguide/static/js/main.9a0ce28d.chunk.js",
     "main.js.map": "/nyyppaguide/static/js/main.9a0ce28d.chunk.js.map",
     "runtime-main.js": "/nyyppaguide/static/js/runtime-main.17b82284.js",
@@ -10,7 +10,7 @@
     "static/js/3.3eec9a74.chunk.js": "/nyyppaguide/static/js/3.3eec9a74.chunk.js",
     "static/js/3.3eec9a74.chunk.js.map": "/nyyppaguide/static/js/3.3eec9a74.chunk.js.map",
     "index.html": "/nyyppaguide/index.html",
-    "static/css/main.a34b74f8.chunk.css.map": "/nyyppaguide/static/css/main.a34b74f8.chunk.css.map",
+    "static/css/main.81de1138.chunk.css.map": "/nyyppaguide/static/css/main.81de1138.chunk.css.map",
     "static/js/2.39835490.chunk.js.LICENSE.txt": "/nyyppaguide/static/js/2.39835490.chunk.js.LICENSE.txt",
     "static/media/cookingBig.1b76d6e5.png": "/nyyppaguide/static/media/cookingBig.1b76d6e5.png",
     "static/media/App.css": "/nyyppaguide/static/media/tausta3.30c10465.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.17b82284.js",
     "static/js/2.39835490.chunk.js",
-    "static/css/main.a34b74f8.chunk.css",
+    "static/css/main.81de1138.chunk.css",
     "static/js/main.9a0ce28d.chunk.js"
   ]
 }
