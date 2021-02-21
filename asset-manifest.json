@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nyyppaguide/static/css/main.81de1138.chunk.css",
-    "main.js": "/nyyppaguide/static/js/main.9a0ce28d.chunk.js",
-    "main.js.map": "/nyyppaguide/static/js/main.9a0ce28d.chunk.js.map",
+    "main.css": "/nyyppaguide/static/css/main.1cacf77d.chunk.css",
+    "main.js": "/nyyppaguide/static/js/main.a9619ced.chunk.js",
+    "main.js.map": "/nyyppaguide/static/js/main.a9619ced.chunk.js.map",
     "runtime-main.js": "/nyyppaguide/static/js/runtime-main.17b82284.js",
     "runtime-main.js.map": "/nyyppaguide/static/js/runtime-main.17b82284.js.map",
     "static/js/2.39835490.chunk.js": "/nyyppaguide/static/js/2.39835490.chunk.js",
@@ -10,15 +10,20 @@
     "static/js/3.3eec9a74.chunk.js": "/nyyppaguide/static/js/3.3eec9a74.chunk.js",
     "static/js/3.3eec9a74.chunk.js.map": "/nyyppaguide/static/js/3.3eec9a74.chunk.js.map",
     "index.html": "/nyyppaguide/index.html",
-    "static/css/main.81de1138.chunk.css.map": "/nyyppaguide/static/css/main.81de1138.chunk.css.map",
+    "static/css/main.1cacf77d.chunk.css.map": "/nyyppaguide/static/css/main.1cacf77d.chunk.css.map",
     "static/js/2.39835490.chunk.js.LICENSE.txt": "/nyyppaguide/static/js/2.39835490.chunk.js.LICENSE.txt",
-    "static/media/cookingBig.1b76d6e5.png": "/nyyppaguide/static/media/cookingBig.1b76d6e5.png",
-    "static/media/App.css": "/nyyppaguide/static/media/tausta3.30c10465.png"
+    "static/media/alchemy.36d2ec9e.png": "/nyyppaguide/static/media/alchemy.36d2ec9e.png",
+    "static/media/cookingBig.6ab8d0a5.png": "/nyyppaguide/static/media/cookingBig.6ab8d0a5.png",
+    "static/media/farming.be8f8ad0.png": "/nyyppaguide/static/media/farming.be8f8ad0.png",
+    "static/media/gathering.eae265b0.png": "/nyyppaguide/static/media/gathering.eae265b0.png",
+    "static/media/sailing.955d16ed.png": "/nyyppaguide/static/media/sailing.955d16ed.png",
+    "static/media/App.css": "/nyyppaguide/static/media/tausta3.30c10465.png",
+    "static/media/training.72cf57dd.png": "/nyyppaguide/static/media/training.72cf57dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.17b82284.js",
     "static/js/2.39835490.chunk.js",
-    "static/css/main.81de1138.chunk.css",
-    "static/js/main.9a0ce28d.chunk.js"
+    "static/css/main.1cacf77d.chunk.css",
+    "static/js/main.a9619ced.chunk.js"
   ]
 }
